@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CPostManager", "CPostManager\CPostManager.csproj", "{8AF6B98C-1C77-446B-9574-30D327C20935}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CPostClient", "CPostClient\CPostClient.csproj", "{881B4AF2-038C-4F24-98D6-6F66443F8ED3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AF6B98C-1C77-446B-9574-30D327C20935}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AF6B98C-1C77-446B-9574-30D327C20935}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AF6B98C-1C77-446B-9574-30D327C20935}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AF6B98C-1C77-446B-9574-30D327C20935}.Release|Any CPU.Build.0 = Release|Any CPU
+		{881B4AF2-038C-4F24-98D6-6F66443F8ED3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{881B4AF2-038C-4F24-98D6-6F66443F8ED3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{881B4AF2-038C-4F24-98D6-6F66443F8ED3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{881B4AF2-038C-4F24-98D6-6F66443F8ED3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
